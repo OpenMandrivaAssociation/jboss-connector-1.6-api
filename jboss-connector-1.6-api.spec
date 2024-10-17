@@ -8,7 +8,7 @@ Release:          0.7%{namedreltag}.1
 Summary:          Connector Architecture 1.6 API
 Group:		  Development/Java
 License:          CDDL or GPLv2 with exceptions
-URL:              http://www.jboss.org
+URL:              https://www.jboss.org
 
 # git clone git://github.com/jboss/jboss-connector-api_spec.git jboss-connector-1.6-api
 # cd jboss-connector-1.6-api/ && git archive --format=tar --prefix=jboss-connector-1.6-api/ 9dc9a58fb8672609790db93abcaac3875901243c | xz > jboss-connector-1.6-api-1.0.1.20120310git9dc9a5.tar.xz
